@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="voltage_level">
+        <item>MIN_SYS</item>
+        <item>LOW_SYS</item>
+        <item>SYS</item>
+        <item>SYS_L1</item>
+        <item>NOM</item>
+        <item>NOM_L1</item>
+        <item>NOM_L2</item>
+        <item>TURBO</item>
+        <item>TURBO_L1</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">huahua</string>
+    <string name="frequency">frequency</string>
+    <string name="voltage_level">voltage level</string>
+    <string name="request_root">Please give root permissions</string>
+    <string name="warning">Warining</string>
+    <string name="incompatible_device">Incompatible device</string>
+    <string name="new_voltage">NEW VOLTAGE</string>
+    <string name="sava_voltage">SAVE VOLTAGE</string>
+    <string name="write_change">WRITE CHANGE</string>
+    <string name="warning_delete">Do you really want to delete this voltage</string>
+    <string name="voltage_table">Voltage Table</string>
+    <string name="frequency_table">Frequency Table</string>
+</resources>

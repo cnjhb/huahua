@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent"
+                 android:layout_above="@id/bottomNavigationView2"
+                 android:id="@+id/fragment_container"
+                 >
+    </FrameLayout>
+    <com.google.android.material.bottomnavigation.BottomNavigationView android:layout_height="wrap_content"
+                                                                       android:layout_width="match_parent"
+                                                                       app:menu="@menu/activity_fragment"
+                                                                       android:layout_alignParentBottom="true"
+                                                                       android:background="?android:attr/windowBackground"
+                                                                       android:id="@+id/bottomNavigationView2"/>
+</RelativeLayout>
